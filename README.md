@@ -4,7 +4,7 @@
 
 ## Authors and Affiliations
 
-- **Sergio Lopez**  
+- **Sergio López**  
   Division of Graduate Studies and Research,  
   Tecnológico Nacional de México / Instituto Tecnológico de La Laguna,  
   Torreón, Coah., México  
@@ -35,7 +35,10 @@ This repository contains all scripts and data necessary to reproduce the results
 ## Dependencies
 
 - **Arduino IDE** (version 1.8.19 or later recommended)  
-- Required Arduino libraries (listed at the top of each sketch, e.g., `Servo`, `Wire`, etc.)  
+- Required Arduino libraries (listed at the top of each sketch, e.g., `Servo`, `Wire`, etc.)
+- MATLAB R2016a or later (recommended: R2018b or newer)
+  - Control System Toolbox
+  - Robotics System Toolbox 
 - Optional Python scripts for plotting results require:  
   - Python 3.8+  
   - `numpy`  
