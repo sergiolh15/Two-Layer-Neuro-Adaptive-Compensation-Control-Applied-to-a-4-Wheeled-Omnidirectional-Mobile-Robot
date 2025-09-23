@@ -45,5 +45,5 @@ This repository contains all scripts and data necessary to reproduce the results
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/sergiolh15/Two-Layer-Neuro-Adaptive-Compensation-Control-Applied-to-a-4-Wheeled-Omnidirectional-Mobile-Robot.git
 
